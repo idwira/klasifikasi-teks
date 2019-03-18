@@ -9,3 +9,5 @@ Kelas: 'keluhan', 'respon' dan 'bukan keluhan atau respon'
 Classifiers dengan:
 1. Naive bayes, multinomialNB
 2. SVM, LinearSVC
+
+File masing-masing terdiri atas extention ipynb (Jupyter Notebook dengan tampilan output nya) dan py (raw Python), dimana program nya identik
