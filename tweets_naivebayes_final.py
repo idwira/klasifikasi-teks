@@ -20,7 +20,7 @@ df=pd.read_csv('tweets_csv_siap.csv',sep=';')
 
 
 df.head()
-#verifikasi 5 row data pertama
+#verifikasi 5 row data pertama saja
 
 
 # In[4]:
